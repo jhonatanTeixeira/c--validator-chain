@@ -1,0 +1,5 @@
+C:\Users\jhonatan.teixeira\Documents\Visual Studio 2010\Projects\validators\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jhonatan.teixeira\Documents\Visual Studio 2010\Projects\validators\bin\Debug\validators.exe
+C:\Users\jhonatan.teixeira\Documents\Visual Studio 2010\Projects\validators\bin\Debug\validators.pdb
+C:\Users\jhonatan.teixeira\Documents\Visual Studio 2010\Projects\validators\obj\x86\Debug\validators.exe
+C:\Users\jhonatan.teixeira\Documents\Visual Studio 2010\Projects\validators\obj\x86\Debug\validators.pdb
